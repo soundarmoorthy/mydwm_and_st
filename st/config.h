@@ -5,7 +5,7 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char font[] = "Ubuntu Mono:pixelsize=16:antialias=true:autohint=true";
+static char font[] = "Ubuntu Mono:pixelsize=14:antialias=true:autohint=true";
 static int borderpx = 2;
 static char shell[] = "/usr/bin/sh";
 static char *utmp = NULL;
